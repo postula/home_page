@@ -1,6 +1,8 @@
 baseURL                          = "https://postu.la"   # Your domain name. Must end with "/"
 theme                            = "introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
+
+publishDir = "docs"
 # disqusshortname                 = ""                     # https://gohugo.io/content-management/comments
 # googleAnalytics                 = ""                     # https://gohugo.io/templates/internal/#google-analytics
 
@@ -140,4 +142,3 @@ description  = "Postula Conceptions -- Build, Design, Maintain"   # Max 160 char
 #dateFormat   = "2. January 2006"
 #description  = "Beschreibung der Webseite"
 # footerText   = ""
-publishDir = "docs"
