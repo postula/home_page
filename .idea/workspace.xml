@@ -5,46 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b94ab149-e4b6-4502-af92-97c6decb756c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/en/blog/_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/en/blog/coffee-ipsum/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/en/blog/coffee-ipsum/workday.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/en/blog/configuration.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/en/blog/long-form-post.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/en/blog/multi-author.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/en/blog/no-date.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/en/blog/startup-ipsum.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/en/home/Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/en/home/Logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/en/home/about.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/en/home/contact.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/en/home/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/en/home/profile.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/en/home/profile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/en/projects/_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/en/projects/design/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/en/projects/design/plant.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/en/projects/photography/camera.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/en/projects/photography/erik-jan-leusink-180382-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/en/projects/photography/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/en/projects/photography/lorene-farrugia-JpmC-tAHiVA-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/en/projects/photography/mario-ho-277298-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/en/projects/photography/tyler-lastovich-285380-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/en/projects/writing/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/en/projects/writing/workday.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/shortcodes/md.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/shortcodes/readfile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/introduction/static/fonts/Nexa/nexa-bold.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/introduction/static/fonts/Nexa/nexa-light.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/spectral" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/introduction/assets/sass/_base-variables.sass" beforeDir="false" afterPath="$PROJECT_DIR$/themes/introduction/assets/sass/_base-variables.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/introduction/assets/sass/_base.sass" beforeDir="false" afterPath="$PROJECT_DIR$/themes/introduction/assets/sass/_base.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/introduction/assets/sass/_fonts.sass" beforeDir="false" afterPath="$PROJECT_DIR$/themes/introduction/assets/sass/_fonts.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/introduction/assets/sass/_light-variables.sass" beforeDir="false" afterPath="$PROJECT_DIR$/themes/introduction/assets/sass/_light-variables.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/introduction/layouts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/introduction/layouts/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/introduction/layouts/partials/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/introduction/layouts/partials/nav.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/spectral/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/spectral/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/spectral/layouts/partials/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/spectral/layouts/partials/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
